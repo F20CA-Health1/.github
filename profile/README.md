@@ -17,4 +17,16 @@ Zhaorui Jiang, Rohan Veit, Kareem Al-Hasan, Jiahui Kang, Ameen, Zewei Yan, Yujin
 
 ## Timeline
 
+### Week 5
+
+Ethics form done + Begin work on presentation
+- Front-end: Visual prototype
+- RAG: Scraping + document store
+- Speech recognition: 'Speech recognition' library tests
+- TTS: Not @ meeting, will discuss on teams (Look at libraries, initial tests)
+- Models: Results from evaluation, choice of evaluation LLMs
+- NLU: Research into NLU, how it fits into project
+  
+Whole group: Create slides for preparation of presentation.
+
 ...
