@@ -10,7 +10,7 @@ Zhaorui Jiang, Rohan Veit, Kareem Al-Hasan, Jiahui Kang, Ameen, Zewei Yan, Yujin
 - Rohan Veit - Deputy Coordinator
 - Kareem Al-Hasan - RAG Manager
 - Jiahui Kang - NLU language understanding
-- Ameen - App/GUI developement + TTS Engineer
+- Ameen - App/GUI developement +ASR Engineer
 - Zhaorui Jiang + Zewei Yan - Model Evaluation/Research/Implementation (Safety + Performance + Bias (Gender/Race) + Interpret + Finetuning + Prompting)
 - Yujing Ju - TTS Engineer
 - Lanting Huang - System Engineer
